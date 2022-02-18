@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="124.102mm"
+   height="29.817mm"
+   viewBox="0 0 351.786 84.519"
+   version="1.1"
+   id="svg54"
+   sodipodi:docname="CFM_Piapro_Logo_Official_Color_Ver.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata60">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>logo_piapro</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs58" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     id="namedview56"
+     showgrid="false"
+     inkscape:zoom="2.362237"
+     inkscape:cx="234.52346"
+     inkscape:cy="56.347086"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg54" />
+  <title
+     id="title36">logo_piapro</title>
+  <g
+     id="レイヤー_2"
+     data-name="レイヤー 2"
+     style="fill:#e4007b;fill-opacity:1">
+    <g
+       id="基本ロゴ"
+       style="fill:#e4007b;fill-opacity:1">
+      <path
+         d="M275.914.482,251.987,15.8S245.2,19.936,245.2,29.677V57.185a8.818,8.818,0,0,0,17.637,0V34.675c0-5.6,3.87-7.35,3.87-7.35l18.707-11.986V4.7Z"
+         fill="#fff"
+         id="path38"
+         style="fill:#e4007b;fill-opacity:1" />
+      <path
+         d="M31.949,3.378A31.925,31.925,0,0,0,.323,31,8.528,8.528,0,0,0,0,33.272V84.519l17.636-11.5V35.331h0a14.345,14.345,0,1,1,6.9,12.222V66.391A31.943,31.943,0,1,0,31.949,3.378Z"
+         fill="#fff"
+         id="path40"
+         style="fill:#e4007b;fill-opacity:1" />
+      <path
+         d="M131.316,3.378a31.949,31.949,0,1,0,0,63.9h0a31.808,31.808,0,0,0,7.41-.874V47.553a14.3,14.3,0,1,1,6.9-12.226c0,.011,0,.022,0,.032V59.175l6.365,4.167,11.275,7.248s0-33.061,0-35.264A31.992,31.992,0,0,0,131.316,3.378Z"
+         fill="#fff"
+         id="path42"
+         style="fill:#e4007b;fill-opacity:1" />
+      <path
+         d="M204.322,3.378A31.923,31.923,0,0,0,172.7,31a8.548,8.548,0,0,0-.323,2.275V73.021l17.635,11.261V35.331h0a14.346,14.346,0,1,1,6.9,12.221V66.39a31.943,31.943,0,1,0,7.417-63.012Z"
+         fill="#fff"
+         id="path44"
+         style="fill:#e4007b;fill-opacity:1" />
+      <path
+         d="M319.836,3.378a31.924,31.924,0,0,0-14.311,60.473V35.333a14.34,14.34,0,1,1,6.9,12.223V66.374a31.776,31.776,0,0,0,7.413.906h0a31.951,31.951,0,0,0,0-63.9Z"
+         fill="#fff"
+         id="path46"
+         style="fill:#e4007b;fill-opacity:1" />
+      <polygon
+         points="81.927 0 73.109 4.912 73.109 16.727 81.927 11.815 90.746 16.727 90.746 4.912 81.927 0"
+         fill="#fff"
+         id="polygon48"
+         style="fill:#e4007b;fill-opacity:1" />
+      <path
+         d="M73.109,24.227V58.288a8.818,8.818,0,0,0,17.637,0V24.227l-8.819-4.912Z"
+         fill="#fff"
+         id="path50"
+         style="fill:#e4007b;fill-opacity:1" />
+    </g>
+  </g>
+</svg>
